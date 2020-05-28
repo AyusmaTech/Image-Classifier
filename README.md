@@ -66,3 +66,4 @@ locate the notebook and run it.
     * Use a mapping of categories to real names: ```python predict.py --category_names cat_to_name.json```
     * Use GPU for inference: ```python predict.py --gpu_enabled True```
     
+![alt text](udacity_certificate.JPG)
